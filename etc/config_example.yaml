@@ -3,7 +3,7 @@ zap:
   level: 'info'
   format: 'console'
   director: 'logs'
-  link-name: 'latest_log'
+  link-name: 'logs/latest_log'
   show-line: true
   # LowercaseLevelEncoder:小写, LowercaseColorLevelEncoder:小写带颜色,CapitalLevelEncoder: 大写, CapitalColorLevelEncoder: 大写带颜色,
   encode-level: 'CapitalLevelEncoder'
