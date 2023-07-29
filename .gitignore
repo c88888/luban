@@ -9,7 +9,7 @@ luban_fe/yarn-debug.log*
 luban_fe/yarn-error.log*
 luban_fe/pnpm-debug.log*
 
-logs/*.log
+logs/
 *.log
 .DS_Store
 .vscode
