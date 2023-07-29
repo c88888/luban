@@ -20,6 +20,8 @@ gin.log
 /gin.log
 /gva.exe
 /server.exe
+/gva
+/luban
 *.out
 /agent/meta/
 /agent/main
