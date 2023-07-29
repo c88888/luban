@@ -62,12 +62,16 @@ mysql:
   username: 'root'
   password: '123456'
 ```
+```
+CREATE DATABASE luban DEFAULT CHARACTER SET utf8mb4 DEFAULT COLLATE utf8mb4_unicode_ci;
+```
+
 
 3. 初始化数据库
 ```go
-windows执行以下脚本, 初始化数据库
+linux执行以下脚本, 初始化数据库
 
-init_db.bat
+init_db.sh
 ```
 4. 初始账号: admin  密码: luban123
 
